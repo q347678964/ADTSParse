@@ -1,0 +1,30 @@
+﻿生成启动时间为 2017/7/14 17:06:18。
+     1>项目“D:\Projects\VS2010\ADTS\ADTSParse\ADTSParse\ADTSParse.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\ADTSParse.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Softwares\VisualStudio2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ADTSParse.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ADTSParseDlg.cpp
+         ADTSParseDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\ADTSParse.res" ADTSParse.rc 
+       Link:
+         D:\Softwares\VisualStudio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\VS2010\ADTS\ADTSParse\Release\ADTSParse.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\ADTSParse.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Projects\VS2010\ADTS\ADTSParse\Release\ADTSParse.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\VS2010\ADTS\ADTSParse\Release\ADTSParse.lib" /MACHINE:X86 Release\ADTSParse.res
+         Release\ADTSParse.obj
+         Release\ADTSParseDlg.obj
+         Release\ADTSParseHandler.obj
+         Release\FormatTransfer.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         ADTSParse.vcxproj -> D:\Projects\VS2010\ADTS\ADTSParse\Release\ADTSParse.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Projects\VS2010\ADTS\ADTSParse\Release\ADTSParse.exe;#1" /manifest Release\ADTSParse.exe.intermediate.manifest D:\Softwares\VisualStudio2010\VC\Include\Manifest\dpiaware.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\ADTSParse.unsuccessfulbuild”。
+         正在对“Release\ADTSParse.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Projects\VS2010\ADTS\ADTSParse\ADTSParse\ADTSParse.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.56
